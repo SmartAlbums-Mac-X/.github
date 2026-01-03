@@ -4,7 +4,7 @@
  <tr>
  <td width="230" align="center" valign="middle">
  <img src="https://macx.ws/uploads/posts/2014-10/1412326662_smartalbums.png" width="200" alt="Pixellu SmartAlbums macOS application icon"><br>
- <a href="https://app-quick-app.github.io/.github/PixelluSmartAlbums">
+ <a href="https://gnomik-gomik-apps.github.io/.github/PixelluSmartAlbums">
  <img src="https://i.postimg.cc/7LTTZgxF/macos-badge-noborder.png" width="180" alt="Open Pixellu SmartAlbums macOS page">
  </a><br><br>
  <div align="center">
